@@ -1,0 +1,30 @@
+# ----------------------
+# Frontend (React)
+# ----------------------
+client/node_modules/
+client/build/
+client/.env
+
+# ----------------------
+# Backend (Node.js/Express)
+# ----------------------
+server/node_modules/
+server/.env
+
+# ----------------------
+# Shared
+# ----------------------
+.env
+*.env
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# OS and editor files
+Thumbs.db
+
+# Build or test artifacts
+coverage/
+dist/
+build/
